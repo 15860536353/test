@@ -17,4 +17,6 @@ public class LoginDto {
 
     @Schema(description = "rediskey值")
     private String codeKey ;
+
+    private String dea;
 }
